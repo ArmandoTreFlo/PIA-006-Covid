@@ -1,0 +1,44 @@
+Continente: South America
+Pais: Argentina
+Casos Activos: 0
+
+Pais: Bolivia
+Casos Activos: 10067
+
+Pais: Brazil
+Casos Activos: 1065830
+
+Pais: Chile
+Casos Activos: 500
+
+Pais: Colombia
+Casos Activos: 37501
+
+Pais: Ecuador
+Casos Activos: 0
+
+Pais: Falkland Islands (Malvinas)
+Casos Activos: 0
+
+Pais: French Guiana
+Casos Activos: 86367
+
+Pais: Guyana
+Casos Activos: 76
+
+Pais: Paraguay
+Casos Activos: 795841
+
+Pais: Peru
+Casos Activos: 2498
+
+Pais: Suriname
+Casos Activos: 81180
+
+Pais: Uruguay
+Casos Activos: 1927
+
+Pais: Venezuela
+Casos Activos: 302
+
+

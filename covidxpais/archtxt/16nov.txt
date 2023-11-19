@@ -1,0 +1,102 @@
+Continente: North America
+Pais: Anguilla
+Casos Activos: 13
+
+Pais: Antigua and Barbuda
+Casos Activos: 6
+
+Pais: Aruba
+Casos Activos: 1494
+
+Pais: Bahamas
+Casos Activos: 874
+
+Pais: Barbados
+Casos Activos: 947
+
+
+Continente: South America
+Pais: Colombia
+Casos Activos: 37501
+
+Pais: Paraguay
+Casos Activos: 795841
+
+Pais: Bolivia
+Casos Activos: 9882
+
+Pais: Brazil
+Casos Activos: 1038209
+
+Pais: French Guiana
+Casos Activos: 86367
+
+
+Continente: Asia
+Pais: Afghanistan
+Casos Activos: 12493
+
+Pais: Armenia
+Casos Activos: 6942
+
+Pais: Azerbaijan
+Casos Activos: 48
+
+Pais: Bahrain
+Casos Activos: 45
+
+Pais: Bangladesh
+Casos Activos: 18033
+
+
+Continente: Europe
+Pais: Albania
+Casos Activos: 1696
+
+Pais: Andorra
+Casos Activos: 287
+
+Pais: Austria
+Casos Activos: 3811
+
+Pais: Belarus
+Casos Activos: 1327
+
+Pais: Belgium
+Casos Activos: 6765
+
+
+Continente: Australia-Oceania
+Pais: Australia
+Casos Activos: 8090
+
+Pais: Cook Islands
+Casos Activos: 16
+
+Pais: Fiji
+Casos Activos: 1006
+
+Pais: French Polynesia
+Casos Activos: 78004
+
+Pais: Kiribati
+Casos Activos: 2358
+
+
+Continente: Africa
+Pais: Algeria
+Casos Activos: 82016
+
+Pais: Angola
+Casos Activos: 623
+
+Pais: Benin
+Casos Activos: 26
+
+Pais: Botswana
+Casos Activos: 510
+
+Pais: Burkina Faso
+Casos Activos: 64
+
+

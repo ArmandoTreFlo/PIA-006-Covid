@@ -1,0 +1,4 @@
+requests==2.26.0
+openpyxl
+numpy
+matplotlib==3.4.3
